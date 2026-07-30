@@ -1,0 +1,5 @@
+com\banking\test\AccountTest.class
+com\banking\test\InterestStrategyTest.class
+com\banking\test\LoanTest.class
+com\banking\test\CustomerTest.class
+com\banking\test\SingletonTest.class

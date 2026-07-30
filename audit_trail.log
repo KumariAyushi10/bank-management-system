@@ -1,0 +1,18 @@
+[AUDIT] 2026-07-30 22:45:18 | SAV-15FEE459 | TXN-CA617ADA | ₹15000.00 | Balance After: ₹40000.00 | Salary credit - July 2026
+[AUDIT] 2026-07-30 22:45:18 | SAV-15FEE459 | TXN-2DEFF161 | ₹5000.00 | Balance After: ₹45000.00 | Freelance income
+[AUDIT] 2026-07-30 22:45:18 | SAV-474520FD | TXN-2AAF9BEA | ₹8000.00 | Balance After: ₹18000.00 | Bonus received
+[AUDIT] 2026-07-30 22:45:18 | CUR-707DF01D | TXN-7329E80E | ₹250000.00 | Balance After: ₹750000.00 | Client payment - Invoice #INV-2026-07
+[AUDIT] 2026-07-30 22:45:18 | SAV-15FEE459 | TXN-057E47CE | ₹3000.00 | Balance After: ₹42000.00 | Electricity bill
+[AUDIT] 2026-07-30 22:45:18 | SAV-474520FD | TXN-A558CA64 | ₹2000.00 | Balance After: ₹16000.00 | Online shopping
+[AUDIT] 2026-07-30 22:45:18 | SAV-15FEE459 | TXN-D142FEDA | ₹10000.00 | Balance After: ₹32000.00 | Transfer to SAV-474520FD
+[AUDIT] 2026-07-30 22:45:18 | SAV-474520FD | TXN-3555FFC8 | ₹10000.00 | Balance After: ₹26000.00 | Transfer from SAV-15FEE459
+[AUDIT] 2026-07-30 22:45:18 | CUR-707DF01D | TXN-427D1F1F | ₹20000.00 | Balance After: ₹730000.00 | Transfer to SAV-15FEE459
+[AUDIT] 2026-07-30 22:45:18 | SAV-15FEE459 | TXN-7CA2FEDD | ₹20000.00 | Balance After: ₹52000.00 | Transfer from CUR-707DF01D
+[AUDIT] 2026-07-30 22:45:18 | FD-DCFA2B12 | TXN-D7809ABE | ₹15000.00 | Balance After: ₹115000.00 | Quarterly interest applied
+[AUDIT] 2026-07-30 22:45:18 | SAV-15FEE459 | TXN-EE089A64 | ₹520.00 | Balance After: ₹52520.00 | Quarterly interest applied
+[AUDIT] 2026-07-30 22:45:18 | SAV-474520FD | TXN-0A60AE08 | ₹260.00 | Balance After: ₹26260.00 | Quarterly interest applied
+[AUDIT] 2026-07-30 22:45:18 | SAV-474520FD | TXN-475D3523 | ₹2000.00 | Balance After: ₹28760.00 | Batch deposit #4
+[AUDIT] 2026-07-30 22:45:18 | SAV-474520FD | TXN-E394B7E2 | ₹500.00 | Balance After: ₹26760.00 | Batch deposit #1
+[AUDIT] 2026-07-30 22:45:18 | SAV-474520FD | TXN-51F1EDAD | ₹1000.00 | Balance After: ₹29760.00 | Batch deposit #2
+[AUDIT] 2026-07-30 22:45:18 | SAV-474520FD | TXN-1C3EF6CA | ₹1500.00 | Balance After: ₹31260.00 | Batch deposit #3
+[AUDIT] 2026-07-30 22:45:18 | SAV-474520FD | TXN-5C54D5ED | ₹2500.00 | Balance After: ₹33760.00 | Batch deposit #5

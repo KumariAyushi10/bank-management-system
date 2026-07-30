@@ -1,0 +1,23 @@
+═════════════════════════════════════════════════════════════════
+              SMART BANK — EXECUTIVE SUMMARY
+              As on: 2026-07-30
+═════════════════════════════════════════════════════════════════
+
+  ACCOUNTS BY TYPE:
+    Savings Account                : 2
+    Current Account                : 1
+    Fixed Deposit Account          : 1
+
+  Total Deposits   : ₹6111494.40
+
+  ACTIVE LOAN BOOK BY TYPE:
+    PERSONAL        Count:1    Outstanding:₹180214.40
+    BUSINESS        Count:1    Outstanding:₹5000000.00
+
+  TOP 5 ACCOUNTS BY BALANCE:
+    CUR-707DF01D              ₹5730000.00
+    SAV-15FEE459              ₹232734.40
+    FD-DCFA2B12               ₹115000.00
+    SAV-474520FD              ₹33760.00
+
+═════════════════════════════════════════════════════════════════
